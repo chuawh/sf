@@ -53,7 +53,8 @@ export const CHANNEL_METADATA_KEYS = {
   state: 'state',
 } as const;
 
-export const USER_VERSION = '0.0.32';
+// updated and publish on 21 Dec 2022
+export const USER_VERSION = '0.0.40';
 
 export const nonCenteredAdminMessageCustomTypes = [
   messageCustomTypes.splitPayment,
